@@ -1,6 +1,6 @@
 juhuu git
 
-Diese Zeile ist wichtig
+Diese Zeile ist wichtiger geworden
 
 entwicklung A (....)
 usw
