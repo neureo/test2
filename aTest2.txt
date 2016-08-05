@@ -2,5 +2,5 @@ This is going to be a joint collaboration ... kinda
 
 First I am going to write a pragraph. Adding a sentence from master branch. Better yet, two of them. I am not looking at the screen, and trying to write fast so I will probably have errors.
 
-This is the second paragraph. Similarly, some things  will need to be changed. I will however change each paragraph in a different branch and try to merge after.
+This is the second paragraph. Adding a sentence from review branch. Similarly, some things  will need to be changed. I will however change each paragraph in a different branch and try to merge after.
 
