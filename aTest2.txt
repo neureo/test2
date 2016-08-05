@@ -1,1 +1,6 @@
 This is going to be a joint collaboration ... kinda
+
+First I am going to write a pragraph. Better yem, two of them. I am not loking at the screen and trying to write fast so I will propabbly have errors.
+
+This is the secon paragraph. Similalryly, some thing  will need o be cha nged. I will however change each paragraph in a different brach and try to merge after.
+
